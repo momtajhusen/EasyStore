@@ -2,6 +2,17 @@
   "expo": {
     "name": "MyShop",
     "slug": "MyShop",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "c0728816-8db2-41e7-b9cb-04fbfc4eb0df"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/c0728816-8db2-41e7-b9cb-04fbfc4eb0df"
+    },
+    "android": {},
+    "ios": {}
   }
 }
